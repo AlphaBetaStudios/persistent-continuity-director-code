@@ -1,8 +1,8 @@
-# Persistent Continuity Director — code-only candidate
+# Persistent Continuity Director — code-only workflow
 
 By AlphaBeta Studios. ComfyUI custom nodes and a browser workspace for planning, running, pausing, and resuming multi-clip video jobs with actual-frame handoffs and bounded continuity review.
 
-This candidate contains application code, a generic API graph example, licenses, and dependency information. It contains no project records, rendered clips, source photographs, models, prompts for an AlphaBeta production, or Git history.
+This repository contains application code, a generic API graph example, licenses, and dependency information. It contains no project records, rendered clips, source photographs, models, prompts for an AlphaBeta production, or prior Git history.
 
 ## Install
 
