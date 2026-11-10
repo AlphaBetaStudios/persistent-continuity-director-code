@@ -1,0 +1,8 @@
+# These are already dependencies of a normal ComfyUI installation.
+# Use ComfyUI's own Python environment; do not replace its torch build.
+aiohttp>=3.9
+Pillow>=10.0
+numpy>=1.24
+# Used by the optional local identity scorer. The first run downloads the
+# selected open model bundle into the operator's local cache.
+insightface>=2.1
